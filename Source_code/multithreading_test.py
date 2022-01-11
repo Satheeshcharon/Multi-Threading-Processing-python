@@ -1,7 +1,6 @@
 """ 
-CPU - 4 Core (4 Thread)  - Python will take One thread (In python that can crete N number of threads)
+CPU - 4 Core (8 Thread)  - Python will take two thread per cpu.
 
-So (i.e) if 4 requests use one thread menas it will hit and that response delay time another req will hit like that. 
 
 """
 
