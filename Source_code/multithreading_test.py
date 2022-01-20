@@ -1,7 +1,5 @@
 """ 
 CPU - 4 Core (8 Thread)  - Python will take two thread per cpu.
-
-
 """
 
 import grequests, requests
